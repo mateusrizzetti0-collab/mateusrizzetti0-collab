@@ -1,8 +1,8 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0a192f,70:003b80,100:007bff&height=230&section=header&text=MATEUS%20RIZZETTI&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%3C%20DEVELOPER%20IN%20PROGRESS%20%2F%3E&descAlignY=60&descSize=19"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0a192f,70:003b80,100:007bff&height=230&section=header&text=MATEUS%20RIZZETTI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DESENVOLVEDOR%20EM%20FORMA%C3%87%C3%83O&descAlignY=60&descSize=19"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;Desenvolvedor+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo;Sempre+evoluindo+%E2%9A%A1"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+mundo!+%F0%9F%91%8B;Estudante+de+Desenvolvimento+de+Sistemas;Transformando+ideias+em+c%C3%B3digo;Sempre+evoluindo!+%E2%9A%A1"/>
 
 <br/>
 
@@ -15,44 +15,44 @@
 
 <br/><br/>
 
-<code>DEVELOPMENT</code> • <code>INNOVATION</code> • <code>EVOLUTION</code>
+<code>TECNOLOGIA</code> • <code>INOVAÇÃO</code> • <code>EVOLUÇÃO</code>
 
 </div>
 
 ---
 
-## `01` // SOBRE MIM
+## 👨‍💻 Sobre mim
 
 <div align="center">
 
-### 👨‍💻 Desenvolvedor em formação
+### Desenvolvedor em formação
 
 </div>
 
 Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia, programação e criação de soluções digitais.
 
 - 🎓 Estudante de Desenvolvimento de Sistemas.
-- 💻 Focado em desenvolvimento web.
+- 💻 Focado em programação e desenvolvimento web.
 - ⚡ Explorando o universo Front-end e Back-end.
 - 🚀 Criando projetos para transformar conhecimento em experiência.
 - 🧠 Sempre aprendendo, evoluindo e buscando novos desafios.
 
 ---
 
-## `02` // TECH STACK
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-**FRONT-END**
+**DESENVOLVIMENTO FRONT-END**
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" title="HTML - Linguagem de marcação"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" title="CSS - Estilização de páginas"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" title="JavaScript - Programação web"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" title="HTML - Linguagem de marcação"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" title="CSS - Estilização de páginas"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" title="JavaScript - Programação web"/></a>
 <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap - Framework CSS"/></a>
 
 <br/>
 
-**BACK-END & DATABASE**
+**DESENVOLVIMENTO BACK-END E BANCO DE DADOS**
 
 <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" title="PHP - Desenvolvimento Back-end"/></a>
 <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" title="Laravel - Framework PHP"/></a>
@@ -60,7 +60,7 @@ Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia, pro
 
 <br/>
 
-**TOOLS & WORKFLOW**
+**FERRAMENTAS DE DESENVOLVIMENTO**
 
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" title="Git - Controle de versão"/></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" title="GitHub - Hospedagem de projetos"/></a>
@@ -68,18 +68,18 @@ Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia, pro
 
 <br/><br/>
 
-<sub>↗ Passe o mouse sobre os ícones para conhecer cada tecnologia.</sub>
+<sub>↗ Passe o mouse sobre os ícones para visualizar o nome de cada tecnologia.</sub>
 
 </div>
 
 ---
 
-## `03` // FEATURED PROJECTS
+## 🚀 Projetos em destaque
 
 <div align="center">
 
 <a href="https://github.com/SEU_USUARIO?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-0066FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VER%20MEUS%20PROJETOS-0066FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -90,87 +90,113 @@ Sistema web desenvolvido com Laravel, PHP, MySQL e Bootstrap.
 
 **Tecnologias:** `PHP` `Laravel` `MySQL` `Bootstrap`
 
-### 💻 Academic Projects
+### 💻 Projetos acadêmicos
 
-Projetos desenvolvidos durante minha formação em Desenvolvimento de Sistemas, colocando em prática conceitos de programação e banco de dados.
+Projetos desenvolvidos durante minha formação em Desenvolvimento de Sistemas, colocando em prática conceitos de programação, desenvolvimento web e banco de dados.
 
-### 🚀 Personal Projects
+### ⚡ Projetos pessoais
 
 Experimentos, aplicações e novas ideias para explorar tecnologias e desenvolver minhas habilidades.
 
 ---
 
-## `04` // MISSION & EVOLUTION
+## 🎯 Objetivos e evolução
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D68F?style=for-the-badge&logo=statuspage&logoColor=white"/>
-<img src="https://img.shields.io/badge/LEARNING-ACTIVE-0066FF?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/SISTEMA-ONLINE-00D68F?style=for-the-badge&logo=statuspage&logoColor=white"/>
+<img src="https://img.shields.io/badge/APRENDIZADO-ATIVO-0066FF?style=for-the-badge&logo=rocket&logoColor=white"/>
 
-</div>
+<br/><br/>
 
-| Área | Missão |
-|:---|:---|
-| 🌐 Front-end | Interfaces modernas e responsivas |
-| ⚙️ Back-end | Sistemas, APIs e lógica de programação |
-| 🗄️ Database | Estruturação e gerenciamento de dados |
-| 🔗 Versionamento | Evolução com Git e GitHub |
-| 🚀 Career | Construir uma carreira sólida em tecnologia |
+<table>
+<tr>
+<td align="center" width="50%">
 
-<div align="center">
+### 🌐 Front-end
 
-**CURRENT MISSION**
+Criar interfaces modernas, bonitas e responsivas.
 
-`LEARN` → `BUILD` → `IMPROVE` → `REPEAT`
+</td>
+<td align="center" width="50%">
+
+### ⚙️ Back-end
+
+Desenvolver sistemas, aplicações e APIs.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🗄️ Banco de dados
+
+Aprimorar conhecimentos em MySQL e gerenciamento de dados.
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 Carreira profissional
+
+Conquistar oportunidades e crescer na área de tecnologia.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**MINHA JORNADA NA PROGRAMAÇÃO**
+
+`APRENDER` → `DESENVOLVER` → `EVOLUIR` → `CONQUISTAR`
 
 </div>
 
 ---
 
-## `05` // DEVELOPER PROFILE
+## 💻 Meu perfil de desenvolvedor
 
 ```javascript
 const mateusRizzetti = {
 
     nome: "Mateus Rizzetti",
 
-    cargo: "Developer in Progress",
+    profissao: "Desenvolvedor em formação",
 
-    foco: [
-        "Web Development",
-        "Front-end",
-        "Back-end"
-    ],
+    conhecimentos: {
+        frontEnd: [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Bootstrap"
+        ],
 
-    stack: {
-        frontEnd: ["HTML", "CSS", "JavaScript", "Bootstrap"],
-        backEnd: ["PHP", "Laravel"],
-        database: ["MySQL"],
-        tools: ["Git", "GitHub", "VS Code"]
+        backEnd: [
+            "PHP",
+            "Laravel"
+        ],
+
+        bancoDeDados: [
+            "MySQL"
+        ],
+
+        ferramentas: [
+            "Git",
+            "GitHub",
+            "VS Code"
+        ]
     },
 
-    mindset: "Never stop learning",
+    mentalidade: "Nunca parar de aprender",
 
     objetivo: "Transformar conhecimento em grandes projetos"
 };
 
-console.log("System initialized. Welcome! 🚀");
+console.log("Bem-vindo ao meu perfil! 🚀");
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=008BFF&center=true&vCenter=true&width=500&lines=THANKS+FOR+VISITING+MY+PROFILE!;SEE+YOU+IN+THE+NEXT+COMMIT!"/>
-
-<br/>
-
-**"Code. Create. Innovate. Evolve."**
-
-<br/>
-
-<sub>© 2026 Mateus Rizzetti • Desenvolvedor em formação</sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,50:0a192f,100:020617&height=130&section=footer"/>
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?
