@@ -199,4 +199,18 @@ console.log("Bem-vindo ao meu perfil! 🚀");
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=008BFF&center=true&vCenter=true&width=500&lines=OBRIGADO+PELA+VISITA!;AT%C3%89+O+PR%C3%93XIMO+PROJETO!"/>
+
+<br/>
+
+### 💙 O futuro não é escrito, é desenvolvido linha por linha.
+
+**Mateus Rizzetti | Desenvolvedor em formação**
+
+<br/>
+
+<sub>© 2026 • Construindo o futuro através da tecnologia.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,50:0a192f,100:020617&height=130&section=footer"/>
+
+</div>
