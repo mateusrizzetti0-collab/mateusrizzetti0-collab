@@ -69,17 +69,17 @@ Construindo projetos, desenvolvendo habilidades e transformando ideias em códig
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Objetivos e evolução
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+| Objetivo | Foco |
+|:---|:---|
+| 🌐 Desenvolvimento Web | Criar sites modernos e responsivos |
+| ⚙️ Back-end | Desenvolver sistemas com PHP e Laravel |
+| 🗄️ Banco de Dados | Aprimorar conhecimentos em MySQL |
+| 🔧 Versionamento | Evoluir com Git e GitHub |
+| 🚀 Carreira | Conquistar oportunidades na área de tecnologia |
 
 </div>
 
